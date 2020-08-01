@@ -1,6 +1,6 @@
 # Amazon-Clone-React.js
 
-Firebase hosted:https://clone-e1872.web.app/
+Firebase Hosted Demo: https://clone-e1872.web.app/
 
 This project was built for using some intermediate and advanced concepts in React.js such as Routing , Context Api etc
 
