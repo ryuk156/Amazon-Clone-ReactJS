@@ -2,6 +2,10 @@
 
 Firebase Hosted Demo: https://clone-e1872.web.app/
 
+Image:
+
+![](amazon.png)
+
 This project was built for using some intermediate and advanced concepts in React.js such as Routing , Context Api etc
 
 The Website is not functional ie all the stuff are hardcoded.
