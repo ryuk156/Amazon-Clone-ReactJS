@@ -1,3 +1,7 @@
+
+---
+Tags: ["a","b","c"]
+---
 # Amazon-Clone-React.js
 
 Firebase Hosted Demo: https://clone-e1872.web.app/
