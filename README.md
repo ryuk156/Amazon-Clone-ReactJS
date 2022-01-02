@@ -1,9 +1,3 @@
----
-post: module
-name: Zones
-Tags: ["a","b","c"]
----
-
 
 # Amazon-Clone-React.js
 
